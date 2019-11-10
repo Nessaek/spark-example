@@ -1,4 +1,4 @@
-#Spark Application
+# Spark Application
 
 Simple spark application that reads from postgres database, and writes results to a json file.
 
